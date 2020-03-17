@@ -31,6 +31,7 @@ namespace PresentationsLayer
 
       static void Main(string[] args)
       {
+
          int puls=0;
          int periode = Convert.ToInt32(40) * Convert.ToInt32(10);
 
