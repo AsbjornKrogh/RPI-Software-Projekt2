@@ -8,7 +8,5 @@ namespace DataLayer
 
    class DataLayer
    {
-        global::System.Console.WriteLine("Hello");
-
    }
 }
