@@ -13,6 +13,7 @@ namespace DTO
       {
          this.mvEKG = mvEKG;
          this.DateTime = dateTime; 
+            global::System.Console.WriteLine("Peter was here");
       }
    }
 }
